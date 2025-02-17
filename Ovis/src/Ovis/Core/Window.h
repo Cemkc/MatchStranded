@@ -12,9 +12,9 @@ namespace Ovis {
 		unsigned int Width;
 		unsigned int Height;
 
-		WindowProps(const std::string title = "Ovis Engine", 
-					unsigned int widht = 1280,
-					unsigned int height = 720)
+		WindowProps(const std::string title = "Match Stranded", 
+					unsigned int widht = 540,
+					unsigned int height = 810)
 					:Title(title), Width(widht), Height(height){}
 	};
 

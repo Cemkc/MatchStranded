@@ -10,7 +10,7 @@ namespace Ovis
 	{
 		m_Parent = nullptr;
 		m_Texture = nullptr;
-		m_Id = IDGenerator::generateID();
+		m_Id = (uint32_t)IDGenerator::generateID();
 		EntityManager::OnEntityCreate(this,  m_Id);
 	}
 
