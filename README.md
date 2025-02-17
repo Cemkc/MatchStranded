@@ -1,2 +1,4 @@
-# Ovis Game Engine
-Ovis Engine is a Game Engine that I'm working on following the [Game Enigne Series on YouTube by TheCherno](https://youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT&si=CwlxDhrIczdImBbZ) with the puropse of understanding coding principles and managing a large scaled project as well as improving my skills on concepts that are part of game development such as rendering, animations, sound etc.
+# Match Stranded
+Match Starnded is a game that I developed to try out my Game Engine (Ovis Engine). The origin of this project comes from a job interview that I had where I was given a case which I had to developed a Match2 game. I developed the case in Unity and it succeded, nevertheless I got eliminated in the final round of the hiring process. 
+
+I am learning valuable insights during recruitment processes and becoming more aware of my areas for improvement. With the knowledge I gain, I always roll up my sleeves to take myself to the next level. This project’s main purpose is exactly that. I completed the given case in Unity and have been developing games using Unity for a long time, but for me, the next step was to improve my technical skills and learn coding principles in a large project. So, I decided to take on the challenge of implementing this case from scratch using my own game engine.
