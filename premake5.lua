@@ -1,4 +1,4 @@
-workspace "OvisEngine"
+workspace "MatchStranded"
 	architecture "x64"
 
 	configurations{
@@ -7,7 +7,7 @@ workspace "OvisEngine"
 		"Dist"
 	}
 
-	startproject "Sandbox"
+	startproject "MatchStranded"
 
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
@@ -100,8 +100,8 @@ project "Ovis"
 		runtime "Release"
 		optimize "on"
 
-project "Sandbox"
-	location "Sandbox"
+project "MatchStranded"
+	location "MatchStranded"
 	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++17"
