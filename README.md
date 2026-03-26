@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Ovis Game Engine & Match Stranded"
-date:   2026-03-24
----
-
 [![Ovis Engine & Match Stranded Showcase](https://img.youtube.com/vi/0z34pRebRAY/maxresdefault.jpg)](https://www.youtube.com/watch?v=0z34pRebRAY)
 *Click the image above to watch the full technical breakdown and Unity engine comparison.*
 
